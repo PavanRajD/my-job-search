@@ -17,12 +17,12 @@ No technical skills are needed to run this app!
 - Install it and make sure it is running (look for the Docker whale icon on your computer).
 
 ### 2. Get the App Code
-- Click the green "Code" button on the [GitHub page](https://github.com/your-username/my-job-search) and copy the link.
+- Click the green "Code" button on the [GitHub page](https://github.com/PavanRajD/my-job-search) and copy the link.
 - Open your computer's Terminal (or Command Prompt on Windows).
 - Type these commands:
 
 ```bash
-git clone https://github.com/your-username/my-job-search.git
+git clone https://github.com/PavanRajD/my-job-search.git
 cd my-job-search
 ```
 
